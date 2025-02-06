@@ -31,3 +31,5 @@ menubar.py
 frame.py
 
 new_window.py
+
+window_tab.py
