@@ -47,3 +47,5 @@ mouse_event.py
 drag_drop.py
 
 move_images.py
+
+move_images_canvas.py
