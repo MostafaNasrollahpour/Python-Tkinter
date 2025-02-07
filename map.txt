@@ -51,3 +51,5 @@ move_images.py
 move_images_canvas.py
 
 single_animation.py
+
+multiple_animation.py
