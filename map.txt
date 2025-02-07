@@ -35,3 +35,5 @@ new_window.py
 window_tab.py
 
 grid_layout.py
+
+progress_bar.py
